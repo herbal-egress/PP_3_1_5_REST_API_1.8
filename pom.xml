@@ -6,7 +6,7 @@
 
   <groupId>spring.mvc.hiber</groupId>
   <artifactId>PP_3.1.5_REST_API</artifactId>
-  <version>1.3</version>
+  <version>1.8</version>
 
   <properties>
     <java.version>23</java.version>
